@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="Memory-Dump.xsl" ?>
+<!DOCTYPE MEMORY_DUMP_REPORT SYSTEM "Memory-Dump.dtd">
+<MEMORY_DUMP_REPORT>
+  <MD_HEADER/>
+  <MD_RUN_LISTING>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00440030 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 12 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 696 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 728 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441AF0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441830 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 10 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441570 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004412B0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 6 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442FE0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442D20 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 6 </MD_SIZE>
+        <MD_ALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> d:\软件\cunit\cunit-2.1-0-src\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+  </MD_RUN_LISTING>
+  <MD_SUMMARY>
+    <MD_SUMMARY_VALID_RECORDS> 7 </MD_SUMMARY_VALID_RECORDS>
+    <MD_SUMMARY_INVALID_RECORDS> 0 </MD_SUMMARY_INVALID_RECORDS>
+    <MD_SUMMARY_TOTAL_RECORDS> 7 </MD_SUMMARY_TOTAL_RECORDS>
+  </MD_SUMMARY>
+  <MD_FOOTER> Memory Trace for CUnit Run at Tue Jul 28 00:30:42 2009
+ </MD_FOOTER></MEMORY_DUMP_REPORT>
