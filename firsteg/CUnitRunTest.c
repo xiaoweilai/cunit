@@ -29,11 +29,11 @@ int main()
 	//使用console控制交互界面的函数入口 
 	CU_console_run_tests();
 
-	/***使用自动产生XML文件的模式********
+	/***使用自动产生XML文件的模式********/
 	CU_set_output_filename("TestMax");
     CU_list_tests_to_file();
 	CU_automated_run_tests();
-	***********************************/
+	/***********************************/
 	
 	//调用完毕清除注册信息 
 	CU_cleanup_registry();

@@ -40,6 +40,16 @@ int Test_Is_Not_Equal(int a, int b, int real)
 void Test1()
 {
 	CU_ASSERT(Test_Is_Equal(3, 4, 7));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
+	CU_ASSERT(Test_Is_Equal(3, 4, 97));
 }
 
 void Test2()
