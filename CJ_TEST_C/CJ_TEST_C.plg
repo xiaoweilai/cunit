@@ -6,21 +6,76 @@
 --------------------Configuration: CJ_TEST_C - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating temporary file "C:\DOCUME~1\chenjie\LOCALS~1\Temp\RSP154.tmp" with contents
+Creating temporary file "C:\Users\John\AppData\Local\Temp\RSP680F.tmp" with contents
 [
-kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib CUnit.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/CJ_TEST_C.pdb" /debug /machine:I386 /out:"Debug/CJ_TEST_C.exe" /pdbtype:sept 
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib CUnit.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/CJ_TEST_C.pdb" /debug /machine:I386 /nodefaultlib:"LIBCD.lib" /out:"Debug/CJ_TEST_C.exe" /pdbtype:sept 
 .\Debug\CUnitRunTest.obj
 .\Debug\MainModule.obj
 .\Debug\TestMainModule.obj
 ]
-Creating command line "link.exe @C:\DOCUME~1\chenjie\LOCALS~1\Temp\RSP154.tmp"
+Creating command line "link.exe @C:\Users\John\AppData\Local\Temp\RSP680F.tmp"
 <h3>Output Window</h3>
 Linking...
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol __assert
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol __assert
+CUnitRunTest.obj : error LNK2001: unresolved external symbol __assert
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol __assert
+CUnit.lib(TestDB.obj) : error LNK2001: unresolved external symbol __assert
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol __assert
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol __chkesp
+CUnit.lib(CUError.obj) : error LNK2001: unresolved external symbol __chkesp
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol __chkesp
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol __chkesp
+CUnitRunTest.obj : error LNK2001: unresolved external symbol __chkesp
+TestMainModule.obj : error LNK2001: unresolved external symbol __chkesp
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol __chkesp
+CUnit.lib(TestDB.obj) : error LNK2001: unresolved external symbol __chkesp
+LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol _fprintf
+CUnit.lib(CUError.obj) : error LNK2001: unresolved external symbol _fprintf
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _fprintf
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol _setvbuf
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _setvbuf
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol __iob
+CUnit.lib(CUError.obj) : error LNK2001: unresolved external symbol __iob
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol __iob
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol _tolower
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol _fgets
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol __filbuf
+CUnit.lib(Console.obj) : error LNK2001: unresolved external symbol _sscanf
+CUnit.lib(TestDB.obj) : error LNK2001: unresolved external symbol _strcpy
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol _strcpy
+CUnit.lib(TestDB.obj) : error LNK2001: unresolved external symbol _strlen
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol _strlen
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _strlen
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol _strlen
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol _longjmp
+CUnit.lib(TestRun.obj) : error LNK2001: unresolved external symbol __setjmp3
+CUnit.lib(CUError.obj) : error LNK2001: unresolved external symbol _exit
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _calloc
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _malloc
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _strncpy
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _free
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _realloc
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _fclose
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _ctime
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _time
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _strerror
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _errno
+CUnit.lib(MyMem.obj) : error LNK2001: unresolved external symbol _fopen
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol _strcat
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol _memset
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol _toupper
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol __pctype
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol __isctype
+CUnit.lib(Util.obj) : error LNK2001: unresolved external symbol ___mb_cur_max
+Debug/CJ_TEST_C.exe : fatal error LNK1120: 32 unresolved externals
+Error executing link.exe.
 
 
 
 <h3>Results</h3>
-CJ_TEST_C.exe - 0 error(s), 0 warning(s)
+CJ_TEST_C.exe - 54 error(s), 0 warning(s)
 </pre>
 </body>
 </html>

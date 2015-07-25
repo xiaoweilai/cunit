@@ -1,0 +1,2632 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="Memory-Dump.xsl" ?>
+<!DOCTYPE MEMORY_DUMP_REPORT SYSTEM "Memory-Dump.dtd">
+<MEMORY_DUMP_REPORT>
+  <MD_HEADER/>
+  <MD_RUN_LISTING>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441DC0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 12 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 696 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 728 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441AF0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441830 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00441570 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004412B0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442FE0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442D20 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442A60 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004427A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004424D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442210 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442190 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00442090 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004436E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00443420 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00443160 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004430D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00443050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004448E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00444620 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00444360 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004440A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445DA0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445AE0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445810 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445550 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445290 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445210 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445190 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00445090 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004464A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004461D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00446150 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004460D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00446050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004476A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004473E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00447110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448DA0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448AE0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448820 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448560 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004482A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448210 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448180 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 32 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448100 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00448080 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004494A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004491E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00449150 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004490D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 17 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00449050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044A6A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 17 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044A3E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044A120 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 9 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044A090 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044BB60 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044B8A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044B5E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 15 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044B320 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044B060 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 16 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044CD50 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044CA90 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C7D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C510 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 16 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C250 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C1D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C140 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C0C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044C040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044D460 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044D1A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044D110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 22 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044D080 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044E920 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 19 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044E660 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044E3A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044E0E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044E050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 21 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044FB10 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044F850 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 17 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044F590 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0044F2C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 22 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00447090 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450D90 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450AC0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450800 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 18 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450540 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450270 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 23 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004501F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450160 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 26 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004500D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00450050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 17 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00451460 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00451190 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 22 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00451110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00451080 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00452910 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 433 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 409 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00452650 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 10 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 438 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 485 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00452390 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 20 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 550 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 481 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004520D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 10 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 555 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testdb.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 586 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00452040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453AF0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453840 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453570 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453280 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453210 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453180 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004530D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453060 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00454450 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00454190 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004540F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 44 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00454060 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004558E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00455600 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 44 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00455330 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00455040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00454030 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00456AD0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00456810 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 13 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00456540 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 22 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00456270 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004561C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00453030 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004560F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00456040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00457470 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 3 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004571A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00458D70 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00458AC0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 2 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004587F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00458500 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00458230 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 30 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004581A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004580F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00458060 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 36 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00459690 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004593A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004590D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00459040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045AAF0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A820 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A550 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A260 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A1D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 27 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A140 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045A090 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045B6D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045B400 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045B110 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045B080 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 23 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045CB50 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045C860 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045C590 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 21 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045C2C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045DFB0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045DCE0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 22 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045DA10 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045D720 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045D450 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 24 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045D180 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045D0D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045D040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 27 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045E8D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045E5E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045E310 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 26 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045E040 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045FD30 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045FA60 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 25 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045F790 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045F4A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0045F1D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 29 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00460D90 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00460AA0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004607C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 47 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004604F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00460200 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00460160 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 51 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004600D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004618F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00461660 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 32 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00461390 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004610A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462D90 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 29 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462AC0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004627D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462500 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 35 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462230 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462180 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004620F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 34 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00462060 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00463670 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004633A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 34 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004630D0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464D70 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464AD0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 38 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464800 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464510 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464230 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 37 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004641A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004640F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00464050 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 48 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00465690 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004653A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004650C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 41 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00465030 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466AF0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466810 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 41 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466540 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466250 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004661B0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 43 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466120 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00466070 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004676C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 44 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004673F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00467100 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00468D80 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 45 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00468AB0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004687C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004684E0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 46 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00468210 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00468160 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004680C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 43 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00468030 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00469670 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 00469390 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 44 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 004690C0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046AD70 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046AAD0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 45 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A800 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A510 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A230 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 46 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A1A0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 28 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 600 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 713 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A0F0 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 53 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 609 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 709 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+    <MD_RUN_RECORD>
+      <MD_POINTER> 0046A070 </MD_POINTER>
+      <MD_EVENT_COUNT> 1 </MD_EVENT_COUNT>
+      <MD_EVENT_RECORD>
+        <MD_SIZE> 9 </MD_SIZE>
+        <MD_ALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_ALLOC_FILE>
+        <MD_ALLOC_LINE> 618 </MD_ALLOC_LINE>
+        <MD_DEALLOC_FILE> e:\save\Èí¼ş²âÊÔ\cunit-2.1-0\cunit\sources\framework\testrun.c </MD_DEALLOC_FILE>
+        <MD_DEALLOC_LINE> 705 </MD_DEALLOC_LINE>
+      </MD_EVENT_RECORD>
+    </MD_RUN_RECORD>
+  </MD_RUN_LISTING>
+  <MD_SUMMARY>
+    <MD_SUMMARY_VALID_RECORDS> 238 </MD_SUMMARY_VALID_RECORDS>
+    <MD_SUMMARY_INVALID_RECORDS> 0 </MD_SUMMARY_INVALID_RECORDS>
+    <MD_SUMMARY_TOTAL_RECORDS> 238 </MD_SUMMARY_TOTAL_RECORDS>
+  </MD_SUMMARY>
+  <MD_FOOTER> Memory Trace for CUnit Run at Sun Aug 09 00:01:19 2009
+ </MD_FOOTER></MEMORY_DUMP_REPORT>
