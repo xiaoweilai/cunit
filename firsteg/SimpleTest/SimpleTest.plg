@@ -6,6 +6,17 @@
 --------------------Configuration: SimpleTest - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
+Creating temporary file "C:\Users\John\AppData\Local\Temp\RSP28FD.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib CUnit/CUnit.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/SimpleTest.pdb" /debug /machine:I386 /out:"Debug/SimpleTest.exe" /pdbtype:sept 
+.\Debug\SimpleTest.obj
+]
+Creating command line "link.exe @C:\Users\John\AppData\Local\Temp\RSP28FD.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/SimpleTest.bsc"  .\Debug\SimpleTest.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
 
 
 

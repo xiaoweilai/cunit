@@ -38,7 +38,7 @@ static FILE* temp_file = NULL;
  */
 int init_suite1(void)
 {
-   if (NULL == (temp_file = fopen("temp.txt", "w+"))) {
+   if (NULL == (temp_file = fopen("temp1.txt", "w+"))) {
       return -1;
    }
    else {
@@ -92,6 +92,22 @@ void testFREAD(void)
    }
 }
 
+/* Simple test of testsomethings().
+ * Reads the data previously written by testFPRINTF()
+ * and checks whether the expected characters are present.
+ * Must be run after testFPRINTF().
+ */
+void testsomethings(void)
+{
+   unsigned char buffer[20];
+
+   if (NULL != temp_file) {
+      rewind(temp_file);
+      CU_ASSERT(9 == fread(buffer, sizeof(unsigned char), 20, temp_file));
+      CU_ASSERT(0 == strncmp(buffer, "Q\ni1 = 10", 9));
+   }
+}
+
 /* The main() function for setting up and running the tests.
  * Returns a CUE_SUCCESS on successful running, another
  * CUnit error code on failure.
@@ -114,7 +130,8 @@ int main()
    /* add the tests to the suite */
    /* NOTE - ORDER IS IMPORTANT - MUST TEST fread() AFTER fprintf() */
    if ((NULL == CU_add_test(pSuite, "test of fprintf()", testFPRINTF)) ||
-       (NULL == CU_add_test(pSuite, "test of fread()", testFREAD)))
+       (NULL == CU_add_test(pSuite, "test of fread() it", testFREAD))  ||
+	   (NULL == CU_add_test(pSuite, "test of testsomethings() it", testsomethings)))
    {
       CU_cleanup_registry();
       return CU_get_error();
